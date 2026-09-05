@@ -1,2 +1,6 @@
 blbablablablabl apwsojdpawof
 apwsojdpawof
+
+# ok data
+username = "adada"
+password = "aijdwio"
